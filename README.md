@@ -4,7 +4,7 @@
 👩🏻‍💻I am developing into a full stack developer. <br>
 💭I am interested in improving existing solutions, creating ne one and AI. <br>
 
-<H3>Leet Code scoreboard</H3>
+<H3>LeetCode scoreboard</H3>
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/wiktchojn?theme=dark&font=baloo&extension=null) <br>
 
