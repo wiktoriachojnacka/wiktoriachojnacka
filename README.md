@@ -4,9 +4,9 @@
 👩🏻‍💻 I am striving to become a proficient full stack developer. <br>
 💭  I am interested in improving existing solutions, creating new ones, and exploring AI. <br>
 
-<H3>LeetCode scoreboard</H3>
+#<H3>LeetCode scoreboard</H3>
 
-![LeetCode Stats](https://leetcode.card.workers.dev/wiktchojn?theme=dark&font=baloo&extension=null) <br>
+#![LeetCode Stats](https://leetcode.card.workers.dev/wiktchojn?theme=dark&font=baloo&extension=null) <br>
 
 <H3>Let's contact</H3>
 
