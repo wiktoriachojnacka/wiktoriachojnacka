@@ -6,6 +6,6 @@
 
 <H3>Let's contact</H3>
 
-<a href="https://www.linkedin.com/in/wiktoria-chojnacka-69713a264/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<a href="https://www.linkedin.com/in/wiktoria-chojnacka-69713a264" target="blank">
+<img width="35" height="35" align="left" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="mylinkedIn" />
+</a>
